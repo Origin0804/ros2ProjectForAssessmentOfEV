@@ -1,0 +1,41 @@
+[0.840s] Invoking command in '/home/origin/第二题/scr/packageForSecondQuestion': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/origin/第二题/build/packageForSecondQuestion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/packageForSecondQuestion build --build-base /home/origin/第二题/build/packageForSecondQuestion/build install --record /home/origin/第二题/build/packageForSecondQuestion/install.log --single-version-externally-managed install_data
+[1.132s] running egg_info
+[1.132s] creating ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info
+[1.150s] writing ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/PKG-INFO
+[1.150s] writing dependency_links to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/dependency_links.txt
+[1.151s] writing entry points to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/entry_points.txt
+[1.151s] writing requirements to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/requires.txt
+[1.151s] writing top-level names to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/top_level.txt
+[1.151s] writing manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+[1.186s] reading manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+[1.186s] writing manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+[1.186s] running build
+[1.187s] running build_py
+[1.187s] creating /home/origin/第二题/build/packageForSecondQuestion/build
+[1.187s] creating /home/origin/第二题/build/packageForSecondQuestion/build/lib
+[1.187s] creating /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+[1.187s] copying packageForSecondQuestion/__init__.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+[1.187s] copying packageForSecondQuestion/publisher.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+[1.187s] copying packageForSecondQuestion/subscriber.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+[1.187s] running install
+[1.194s] running install_lib
+[1.213s] creating /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+[1.213s] copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/__init__.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+[1.213s] copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/publisher.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+[1.213s] copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/subscriber.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+[1.214s] byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/__init__.py to __init__.cpython-312.pyc
+[1.214s] byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/publisher.py to publisher.cpython-312.pyc
+[1.214s] byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/subscriber.py to subscriber.cpython-312.pyc
+[1.215s] running install_data
+[1.215s] creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index
+[1.215s] creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index
+[1.215s] creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index/packages
+[1.215s] copying resource/packageForSecondQuestion -> /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index/packages
+[1.215s] copying package.xml -> /home/origin/第二题/install/packageForSecondQuestion/share/packageForSecondQuestion
+[1.216s] running install_egg_info
+[1.236s] Copying ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info to /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion-0.0.0-py3.12.egg-info
+[1.237s] running install_scripts
+[1.368s] Installing publisher script to /home/origin/第二题/install/packageForSecondQuestion/lib/packageForSecondQuestion
+[1.368s] Installing subscriber script to /home/origin/第二题/install/packageForSecondQuestion/lib/packageForSecondQuestion
+[1.368s] writing list of installed files to '/home/origin/第二题/build/packageForSecondQuestion/install.log'
+[1.397s] Invoked command in '/home/origin/第二题/scr/packageForSecondQuestion' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/origin/第二题/build/packageForSecondQuestion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/packageForSecondQuestion build --build-base /home/origin/第二题/build/packageForSecondQuestion/build install --record /home/origin/第二题/build/packageForSecondQuestion/install.log --single-version-externally-managed install_data

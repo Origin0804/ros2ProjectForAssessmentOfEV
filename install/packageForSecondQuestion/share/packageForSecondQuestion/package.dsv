@@ -1,0 +1,6 @@
+source;share/packageForSecondQuestion/hook/pythonpath.ps1
+source;share/packageForSecondQuestion/hook/pythonpath.dsv
+source;share/packageForSecondQuestion/hook/pythonpath.sh
+source;share/packageForSecondQuestion/hook/ament_prefix_path.ps1
+source;share/packageForSecondQuestion/hook/ament_prefix_path.dsv
+source;share/packageForSecondQuestion/hook/ament_prefix_path.sh

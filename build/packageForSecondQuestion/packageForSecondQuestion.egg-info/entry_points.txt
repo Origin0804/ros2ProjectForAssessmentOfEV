@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = packageForSecondQuestion.publisher:main
+subscriber = packageForSecondQuestion.subscriber:main

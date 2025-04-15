@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info
+writing ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/PKG-INFO
+writing dependency_links to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/dependency_links.txt
+writing entry points to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/entry_points.txt
+writing requirements to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/requires.txt
+writing top-level names to ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/top_level.txt
+writing manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+reading manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+writing manifest file '../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/origin/第二题/build/packageForSecondQuestion/build
+creating /home/origin/第二题/build/packageForSecondQuestion/build/lib
+creating /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+copying packageForSecondQuestion/__init__.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+copying packageForSecondQuestion/publisher.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+copying packageForSecondQuestion/subscriber.py -> /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion
+running install
+running install_lib
+creating /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/__init__.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/publisher.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+copying /home/origin/第二题/build/packageForSecondQuestion/build/lib/packageForSecondQuestion/subscriber.py -> /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion
+byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/publisher.py to publisher.cpython-312.pyc
+byte-compiling /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion/subscriber.py to subscriber.cpython-312.pyc
+running install_data
+creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index
+creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index
+creating /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index/packages
+copying resource/packageForSecondQuestion -> /home/origin/第二题/install/packageForSecondQuestion/share/ament_index/resource_index/packages
+copying package.xml -> /home/origin/第二题/install/packageForSecondQuestion/share/packageForSecondQuestion
+running install_egg_info
+Copying ../../build/packageForSecondQuestion/packageForSecondQuestion.egg-info to /home/origin/第二题/install/packageForSecondQuestion/lib/python3.12/site-packages/packageForSecondQuestion-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher script to /home/origin/第二题/install/packageForSecondQuestion/lib/packageForSecondQuestion
+Installing subscriber script to /home/origin/第二题/install/packageForSecondQuestion/lib/packageForSecondQuestion
+writing list of installed files to '/home/origin/第二题/build/packageForSecondQuestion/install.log'
